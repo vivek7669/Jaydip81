@@ -45,4 +45,4 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Jaydip81/Jaydip81/output/github-snake.svg.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Jaydip81/Jaydip81/output/github-snake.svg" />
