@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **nodejs, Javascript, backend**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Jaydip81/Jaydip81/issues)**
+💬 Ask me about **Node.js... or anything [here](https://github.com/Jaydip81/Jaydip81/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
