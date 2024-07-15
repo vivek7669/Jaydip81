@@ -20,7 +20,8 @@
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
- 
+
+  ## 🌐 Socials:
 <div align="center"> 
   <a href="mailto:pedro.sales.jaydipgadhiya0369@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -50,8 +51,6 @@
   <br>
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Jaydip81/Jaydip81/output/github-snake.svg" /><br><br>
 
-  ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jaydip Gadhiya) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Jaydip81&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jaydip81&theme=dark&hide_border=false)<br/>
