@@ -1,4 +1,5 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Jaydip81.Jaydip81" />
+
+[![](https://visitcount.itsvg.in/api?id=Jaydip81&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jaydip!;" />
@@ -42,15 +43,6 @@
 
 <br/>
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jaydip81&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jaydip81&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaydip81&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Jaydip81&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 <div align="center">
   <h2>🐲 My Contributions 🐲</h2>
   <br>
